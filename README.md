@@ -7,6 +7,8 @@ These are the templates I use to make websites.  They are what they are, and if 
 
 There's probably no way to actually release this under a license.
 
+Also, I'm going to put my own account names and domain names in these. You're going to have to remove those if you want to use this.
+
 Literally just use view-source to get the code because the people who made HTML are absolutely ridiculous and the CODE tag does NOTHING.
 
 <a href="css.gradient.counter.list.html">CSS Gradient Counter List</a> by Mattia Astorino
