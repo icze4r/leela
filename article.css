@@ -1,0 +1,62 @@
+
+/* Kiji article system */
+.kijit {
+font-family: 'Andada', Verdana;
+min-height: 1px;
+margin: 0 auto;
+background-color:#FFF;
+padding-top:13px;
+padding-left:20px;
+padding-right:20px;
+padding-bottom: 14px;
+max-width: 777px;
+border-width: 0px 1px 0px 1px;
+border-style: solid;
+border-color: #CCC;
+min-height: auto;
+}
+
+/* Article Picture */
+.kijie {
+	width: 100%; height: auto; display: block; margin: 0 auto; max-width: 777px; min-height: auto;
+}
+
+.kiji {
+font-family: 'Andada', Verdana;
+min-height: 1px;
+margin: 0 auto;
+background-color:#FFF;
+padding-top:13px;
+padding-left:20px;
+padding-right:20px;
+max-width: 777px;
+border-width: 0px 1px 1px 1px;
+border-style: solid;
+border-color: #CCC;
+text-align: justify;
+text-justify: inter-word;
+}
+
+.kijib {
+font-size: 0.9em;
+font-family: 'Andada', Verdana;
+min-height: 1px;
+margin: 0 auto;
+background-color:#FFF;
+padding-top:13px;
+padding-left:20px;
+padding-right:20px;
+padding-bottom: 13px;
+max-width: 777px;
+border-width: 0px 1px 0px 1px;
+border-style: solid;
+border-color: #CCC;
+}
+
+.respy {
+	width: 100%; height: auto;
+}
+
+.flowroot
+{ display: flow-root; }
+
