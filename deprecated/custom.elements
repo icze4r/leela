@@ -1,3 +1,6 @@
+// This is no longer being used because its behavior is not as stable as just using a styled div.
+// I would've liked to use this but it's just not standards-compliant. It doesn't even work the same with every reload in Chrome. Sucks!
+
 https://codepen.io/paceaux/pen/dOqqPw
 
 <foo>
