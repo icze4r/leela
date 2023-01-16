@@ -3,13 +3,17 @@ Leela CSS Framework
 
 This is a mishmash of free code and examples given out throughout the Internet.  
 
-These are the templates I use to make websites.  They are what they are, and if you want to use them, that's your business.  I don't really care.
+Hopefully this will one day become the HTML framework I use to make at least my main website (but possibly other websites).
+
+They are what they are.  I've been doing HTML since 1994.  I would've preferred to use tables but I don't feel like fighting with people about it so I just use divs.
+
+If you want to use this, that's your business.  I don't really care.
 
 There's probably no way to actually release this under a license.
 
 Also, I'm going to put my own account names and domain names in these. You're going to have to remove those if you want to use this.
 
-Literally just use view-source to get the code because the people who made HTML are absolutely ridiculous and the CODE tag does NOTHING.
+Look at the raw if you want to see much below here.  I'll change it later if I can figure out how
 
 <hr />
 
