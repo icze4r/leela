@@ -97,6 +97,8 @@ font-family: Courier; font-size: 0.75em; min-width: 50%; padding-left: 9px; padd
 
 .terminalright {float: right; padding-right: 4px;}
 
+</style>
+
 /* Original Terminal End */
 
 .fr { display: flow-root; }
@@ -120,7 +122,7 @@ var Timez = Minz + "" + Secz;</script>
 <div style="padding: 9px 9px 9px 10px; float: left;">
 <img src="M2.10.4.2.1.gif" />
 </div>
-<div style="margin-left: 9px; color:lime; font-family: Courier; font-size: 0.7325em; line-height: 1.1em; text-align: justify; text-justify: inter-word; padding-top: 12px; ">
+<div style="margin: 0 auto; color:lime; font-family: Courier; font-size: 0.7325em; line-height: 1.1em; text-align: justify; text-justify: inter-word; padding-top: 12px; ">
 The first Pfhor dropship landed twelve<br />
 minutes ago, and their troopers have<br />
 already penetrated the hull.&nbsp;&nbsp;It seems that<br />
